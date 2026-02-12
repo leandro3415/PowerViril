@@ -3,6 +3,7 @@ import { exerciseCategories, exercises, dailyRoutines } from './data/exercises';
 import ExerciseCard from './components/ExerciseCard';
 import ExerciseDetail from './components/ExerciseDetail';
 import RoutineCard from './components/RoutineCard';
+import InstallPrompt from './components/InstallPrompt';
 import './App.css';
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
 
   return (
     <div className="app">
+      <InstallPrompt />
       <header className="app-header">
         <div className="app-header-content">
           <div>
