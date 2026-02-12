@@ -1,0 +1,78 @@
+LISTA DE EXERCÍCIOS - VÍDEOS/GIFs (1 a 15)
+===========================================
+
+1. Kegel Básico
+   Arquivo: kegel-basico.mp4
+   Status: ✅ FEITO
+
+2. Kegel Rápido
+   Arquivo: kegel-rapido.mp4
+   Status: ✅ FEITO
+
+3. Kegel Progressivo (Escada)
+   Arquivo: kegel-progressivo.mp4
+   Status: ✅ FEITO
+
+4. Ponte Pélvica
+   Arquivo: ponte-pelvica.mp4
+   Status: ✅ FEITO
+
+5. Vajrasana (Postura do Diamante)
+   Arquivo: vajrasana.gif ou vajrasana.mp4
+   Status: ⏳ PENDENTE
+   Prompt: GIF animado de 4-5 segundos. Homem em transição para Vajrasana: começa em pé ou ajoelhado, depois SENTA nas nádegas sobre os calcanhares. Mãos nos joelhos. Animação suave da respiração (peito/abdômen expandindo e contraindo levemente). Loop. Estilo ilustração em tons de cinza.
+
+6. Paschimottanasana (Dobrar para Frente)
+   Arquivo: paschimottanasana.gif ou paschimottanasana.mp4
+   Status: ⏳ PENDENTE
+   Prompt: GIF animado de 5-6 segundos. Homem sentado com pernas estendidas. Animação: INCLINAR o tronco LENTAMENTE para frente em direção às pernas, braços estendendo em direção aos pés. Parar quando alcançar (ou quase) os pés. Depois voltar lentamente. Loop suave. Estilo ilustração limpa.
+
+7. Ardha Matsyendrasana (Torção)
+   Arquivo: ardha-matsyendrasana.gif ou ardha-matsyendrasana.mp4
+   Status: ⏳ PENDENTE
+   Prompt: GIF animado de 5 segundos. Homem sentado com perna cruzada. Animação: GIRAR o tronco lentamente para o lado (torção da coluna). Braço envolvendo o joelho. Mostrar a rotação do torso. Depois voltar ao centro. Loop. Estilo ilustração.
+
+8. Sarvangasana (Postura da Vela)
+   Arquivo: sarvangasana.gif ou sarvangasana.mp4
+   Status: ⏳ PENDENTE
+   Prompt: GIF animado de 5-6 segundos. Homem fazendo Postura da Vela. Animação: começa deitado, LEVANTA pernas e quadril até ficar invertido (ombros no chão, mãos apoiando costas). Manter 2 segundos. Depois DESCER lentamente. Loop. Visão lateral. Estilo ilustração anatômica limpa.
+
+9. Garudasana (Postura da Águia)
+   Arquivo: garudasana.gif ou garudasana.mp4
+   Status: ⏳ PENDENTE
+   Prompt: GIF animado de 4-5 segundos. Homem na postura Garudasana: pernas cruzadas/enroladas, braços cruzados na frente. Animação: leve BALANCEIO ou AJUSTE de equilíbrio. Ou: entrar na postura - cruzar pernas, depois cruzar braços. Loop. Estilo ilustração.
+
+10. Caminhada Rápida
+    Arquivo: caminhada.gif ou caminhada.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 3-4 segundos. Silhueta ou ilustração de homem CAMINHANDO em ritmo rápido. Pernas em movimento (passo), braços balanceando. Loop contínuo. Fundo simples. Estilo vetorial ou ilustração minimalista.
+
+11. Ciclismo ou Elíptico
+    Arquivo: ciclismo.gif ou ciclismo.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 3-4 segundos. Homem pedalando bicicleta (ou ciclo indoor). Pernas em movimento circular de pedalar. Corpo inclinado levemente. Loop contínuo. Silhueta ou ilustração simples.
+
+12. Corrida Leve
+    Arquivo: corrida.gif ou corrida.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 3-4 segundos. Homem CORRENDO (trote). Pernas em movimento de corrida, braços flexionados balanceando. Loop contínuo. Estilo silhueta ou ilustração minimalista.
+
+13. Respiração 4-7-8
+    Arquivo: respirar-4-7-8.gif ou respirar-4-7-8.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 8-10 segundos. Homem sentado, relaxado. Animação da RESPIRAÇÃO: barriga/peito EXPANDEM suavemente (inspiração 4s), MANTÉM (7s), CONTRAEM (expiração 8s). Loop lento. Estilo diagrama didático.
+
+14. Respiração Diafragmática
+    Arquivo: respirar-diafragma.gif ou respirar-diafragma.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 6-8 segundos. Homem sentado com uma mão no peito, outra na barriga. Animação: BARRIGA expande na inspiração (mão sobe), peito quase parado. Na expiração, barriga contrai (mão desce). Loop suave. Estilo ilustração educativa.
+
+15. Pranayama Alternado
+    Arquivo: respirar-pranayama.gif ou respirar-pranayama.mp4
+    Status: ⏳ PENDENTE
+    Prompt: GIF animado de 6-8 segundos. Close da MÃO em Vishnu Mudra no NARIZ. Animação: polegar FECHA narina direita (inspiração pela esquerda), depois anelar FECHA narina esquerda (expiração pela direita). Alternar. Loop. Estilo diagrama didático.
+
+
+===========================================
+PASTA DESTINO: public/videos/
+FORMATOS: .mp4 (vídeo) ou .gif (animação)

@@ -14,6 +14,7 @@ export const exercises = {
       id: 'kegel-basico',
       name: 'Kegel Básico',
       image: '/images/kegel-basico.png',
+      video: '/videos/kegel-basico.mp4',
       duration: 300,
       repetitions: 10,
       instructions: [
@@ -29,6 +30,7 @@ export const exercises = {
       id: 'kegel-rápido',
       name: 'Kegel Rápido',
       image: '/images/kegel-basico.png',
+      video: '/videos/kegel-rapido.mp4',
       duration: 120,
       repetitions: 20,
       instructions: [
@@ -43,6 +45,7 @@ export const exercises = {
       id: 'kegel-progressivo',
       name: 'Kegel Progressivo (Escada)',
       image: '/images/kegel-basico.png',
+      video: '/videos/kegel-progressivo.mp4',
       duration: 240,
       repetitions: 5,
       instructions: [
@@ -58,6 +61,7 @@ export const exercises = {
       id: 'ponte-pélvica',
       name: 'Ponte Pélvica',
       image: '/images/ponte-pelvica.png',
+      video: '/videos/ponte-pelvica.mp4',
       duration: 180,
       repetitions: 10,
       instructions: [

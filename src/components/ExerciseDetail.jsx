@@ -61,7 +61,17 @@ function ExerciseDetail({ exercise, category, onBack }) {
         <strong>Benefícios:</strong> {exercise.benefits}
       </div>
 
-      {exercise.image && (
+      {exercise.video && (
+        <div className="exercise-video">
+          <p className="exercise-video-label">Assista o vídeo demonstrativo</p>
+          <video controls poster={exercise.image} preload="metadata" playsInline>
+            <source src={exercise.video} type="video/mp4" />
+            Seu navegador não suporta vídeo.
+          </video>
+        </div>
+      )}
+
+      {exercise.image && !exercise.video && (
         <div className="exercise-image">
           <img src={exercise.image} alt={`Ilustração: ${exercise.name}`} />
         </div>
