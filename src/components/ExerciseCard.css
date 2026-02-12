@@ -1,0 +1,76 @@
+.exercise-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1.25rem 1.5rem;
+  background: var(--card-bg);
+  border: 2px solid var(--border);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+  min-height: 140px;
+}
+
+.exercise-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(214, 158, 46, 0.2);
+}
+
+.exercise-card:active {
+  transform: translateY(0);
+}
+
+.exercise-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.exercise-card-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+
+.exercise-card-title {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.exercise-card-meta {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.meta-badge {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  background: var(--bg-muted);
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+}
+
+.exercise-card-benefits {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin: 0 0 0.75rem 0;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.exercise-card-cta {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent);
+}

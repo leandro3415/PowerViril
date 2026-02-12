@@ -1,0 +1,58 @@
+/* Design voltado para homens 45+ */
+/* Cores chamativas: azul naval (confiança), âmbar/dourado (energia), alto contraste */
+
+:root {
+  /* Paleta principal - masculina e energética */
+  --navy-dark: #0f172a;
+  --navy: #1e3a5f;
+  --navy-light: #2c5282;
+  --accent: #d69e2e;
+  --accent-light: #ecc94b;
+  --accent-dark: #b7791f;
+
+  /* UI */
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-muted: #334155;
+  --card-bg: #1e293b;
+  --border: #475569;
+
+  /* Texto - alto contraste para leitura */
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Tamanhos mínimos para acessibilidade 45+ */
+button {
+  min-height: 48px;
+  min-width: 48px;
+}
+
+a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+a:hover {
+  color: var(--accent-light);
+}
+
+#root {
+  min-height: 100vh;
+}

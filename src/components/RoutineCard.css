@@ -1,0 +1,58 @@
+.routine-card {
+  background: var(--card-bg);
+  border: 2px solid var(--border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.2s;
+}
+
+.routine-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 8px 24px rgba(214, 158, 46, 0.15);
+}
+
+.routine-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.35rem;
+  color: var(--text-primary);
+}
+
+.routine-desc {
+  color: var(--text-secondary);
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.routine-exercises {
+  margin-bottom: 1rem;
+}
+
+.routine-count {
+  font-size: 0.95rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.routine-btn {
+  width: 100%;
+  min-height: 52px;
+  padding: 0.875rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background: var(--accent);
+  color: var(--navy-dark);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.routine-btn:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+
+.routine-btn:active {
+  transform: translateY(0);
+}
